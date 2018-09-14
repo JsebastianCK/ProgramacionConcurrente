@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sebastian
+ *
+ */
+module test {
+}
